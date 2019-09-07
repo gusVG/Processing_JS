@@ -1,4 +1,6 @@
 # Processing_JS
 Ejemplos de Processing con JavaScript
 
-1. ![sketch](/muestras/sketch.jpg)
+* ![sketch](/muestras/sketch.jpg)
+* ![sketch5](/muestras/sketch5.jpg)
+* ![sketch7](/muestras/sketch5.png)
